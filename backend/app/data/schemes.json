@@ -1,0 +1,504 @@
+[
+  {
+    "id": "shagun-scheme",
+    "category": "Women & Marriage Welfare",
+    "department": "Social Security, Women & Child Development",
+    "name": {
+      "en": "Mukh Mantri Shagun Scheme",
+      "pa": "ਮੁੱਖ ਮੰਤਰੀ ਸ਼ਗਨ ਸਕੀਮ",
+      "hi": "मुख्य मंत्री शगुन योजना"
+    },
+    "description": {
+      "en": "One-time financial assistance to help low-income families cover marriage expenses for daughters.",
+      "pa": "ਧੀਆਂ ਦੇ ਵਿਆਹ ਦੇ ਖਰਚੇ ਵਿੱਚ ਮਦਦ ਲਈ ਘੱਟ ਆਮਦਨ ਵਾਲੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਇੱਕ ਵਾਰ ਦਿੱਤੀ ਜਾਣ ਵਾਲੀ ਵਿੱਤੀ ਸਹਾਇਤਾ।",
+      "hi": "बेटियों की शादी के खर्च में मदद के लिए कम आय वाले परिवारों को एकमुश्त वित्तीय सहायता।"
+    },
+    "eligibility": {
+      "en": "Resident of Punjab; family income below the prescribed limit; applies to BPL, SC, and other notified categories.",
+      "pa": "ਪੰਜਾਬ ਦਾ ਵਸਨੀਕ; ਪਰਿਵਾਰਕ ਆਮਦਨ ਤੈਅ ਸੀਮਾ ਤੋਂ ਘੱਟ; ਬੀਪੀਐਲ, ਐਸਸੀ ਅਤੇ ਹੋਰ ਸੂਚਿਤ ਸ਼੍ਰੇਣੀਆਂ 'ਤੇ ਲਾਗੂ।",
+      "hi": "पंजाब का निवासी; पारिवारिक आय निर्धारित सीमा से कम; बीपीएल, एससी और अन्य अधिसूचित श्रेणियों पर लागू।"
+    },
+    "benefits": {
+      "en": "Cash grant of up to ₹51,000 per marriage, disbursed directly to the applicant's bank account.",
+      "pa": "ਪ੍ਰਤੀ ਵਿਆਹ 51,000 ਰੁਪਏ ਤੱਕ ਦੀ ਨਕਦ ਗ੍ਰਾਂਟ, ਸਿੱਧੇ ਬਿਨੈਕਾਰ ਦੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ।",
+      "hi": "प्रति विवाह ₹51,000 तक की नकद सहायता, सीधे आवेदक के बैंक खाते में।"
+    },
+    "how_to_apply": {
+      "en": "Apply online through the Punjab e-Sewa / Social Security Department portal with income and residence proof, at least one month before or within six months after the marriage.",
+      "pa": "ਪੰਜਾਬ ਈ-ਸੇਵਾ / ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਵਿਭਾਗ ਪੋਰਟਲ ਰਾਹੀਂ ਆਮਦਨ ਅਤੇ ਨਿਵਾਸ ਸਬੂਤ ਨਾਲ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦਿਓ।",
+      "hi": "पंजाब ई-सेवा / सामाजिक सुरक्षा विभाग पोर्टल के माध्यम से आय और निवास प्रमाण के साथ ऑनलाइन आवेदन करें।"
+    },
+    "official_link": "https://punjab.gov.in",
+    "keywords": [
+      "marriage",
+      "wedding",
+      "marry",
+      "daughter",
+      "daughters",
+      "girl",
+      "bride",
+      "dowry",
+      "shagun",
+      "shaadi",
+      "vivah",
+      "vyah",
+      "beti",
+      "kanya",
+      "one-time grant",
+      "ਵਿਆਹ",
+      "ਸ਼ਗਨ",
+      "ਧੀ",
+      "ਧੀਆਂ",
+      "ਕੁੜੀ",
+      "ਕੁੜੀਆਂ",
+      "ਲਾੜੀ",
+      "शादी",
+      "विवाह",
+      "बेटी",
+      "बेटियों",
+      "लड़की",
+      "शगुन",
+      "कन्या",
+      "दुल्हन"
+    ],
+    "income_check": true,
+    "criteria": [
+      {
+        "type": "situation",
+        "value": "daughter_marriage_planned"
+      },
+      {
+        "type": "any",
+        "soft": true,
+        "of": [
+          {
+            "type": "category",
+            "value": [
+              "sc"
+            ]
+          },
+          {
+            "type": "situation",
+            "value": "bpl_or_nfsa_household"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aashirwad-scheme",
+    "category": "Women & Child Welfare",
+    "department": "Social Security, Women & Child Development",
+    "name": {
+      "en": "Aashirwad Scheme",
+      "pa": "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ",
+      "hi": "आशीर्वाद योजना"
+    },
+    "description": {
+      "en": "Financial assistance for the marriage of daughters of widows, destitute women, and construction workers.",
+      "pa": "ਵਿਧਵਾਵਾਂ, ਬੇਸਹਾਰਾ ਔਰਤਾਂ ਅਤੇ ਉਸਾਰੀ ਕਾਮਿਆਂ ਦੀਆਂ ਧੀਆਂ ਦੇ ਵਿਆਹ ਲਈ ਵਿੱਤੀ ਸਹਾਇਤਾ।",
+      "hi": "विधवाओं, निराश्रित महिलाओं और निर्माण श्रमिकों की बेटियों के विवाह के लिए वित्तीय सहायता।"
+    },
+    "eligibility": {
+      "en": "Daughters of registered construction workers, widows, or destitute women residing in Punjab.",
+      "pa": "ਪੰਜਾਬ ਵਿੱਚ ਰਹਿੰਦੇ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਕਾਮਿਆਂ, ਵਿਧਵਾਵਾਂ ਜਾਂ ਬੇਸਹਾਰਾ ਔਰਤਾਂ ਦੀਆਂ ਧੀਆਂ।",
+      "hi": "पंजाब में रहने वाले पंजीकृत निर्माण श्रमिकों, विधवाओं या निराश्रित महिलाओं की बेटियाँ।"
+    },
+    "benefits": {
+      "en": "One-time grant of ₹21,000 for marriage expenses.",
+      "pa": "ਵਿਆਹ ਦੇ ਖਰਚਿਆਂ ਲਈ 21,000 ਰੁਪਏ ਦੀ ਇੱਕ ਵਾਰ ਗ੍ਰਾਂਟ।",
+      "hi": "विवाह खर्च के लिए ₹21,000 की एकमुश्त सहायता।"
+    },
+    "how_to_apply": {
+      "en": "Apply through the Punjab Building & Other Construction Workers Welfare Board or the Social Security Department.",
+      "pa": "ਪੰਜਾਬ ਬਿਲਡਿੰਗ ਅਤੇ ਹੋਰ ਉਸਾਰੀ ਕਾਮੇ ਭਲਾਈ ਬੋਰਡ ਜਾਂ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਵਿਭਾਗ ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ।",
+      "hi": "पंजाब भवन एवं अन्य निर्माण श्रमिक कल्याण बोर्ड या सामाजिक सुरक्षा विभाग के माध्यम से आवेदन करें।"
+    },
+    "official_link": "https://punjab.gov.in",
+    "keywords": [
+      "marriage",
+      "wedding",
+      "marry",
+      "daughter",
+      "daughters",
+      "girl",
+      "bride",
+      "widow",
+      "destitute",
+      "construction",
+      "worker",
+      "labour",
+      "labourer",
+      "mazdoor",
+      "vidhwa",
+      "ashirwad",
+      "aashirwad",
+      "beti",
+      "ਵਿਆਹ",
+      "ਧੀ",
+      "ਧੀਆਂ",
+      "ਵਿਧਵਾ",
+      "ਮਜ਼ਦੂਰ",
+      "ਉਸਾਰੀ",
+      "ਕਿਰਤੀ",
+      "ਆਸ਼ੀਰਵਾਦ",
+      "शादी",
+      "विवाह",
+      "बेटी",
+      "बेटियों",
+      "विधवा",
+      "निराश्रित",
+      "मजदूर",
+      "निर्माण",
+      "श्रमिक",
+      "आशीर्वाद"
+    ],
+    "income_check": false,
+    "criteria": [
+      {
+        "type": "situation",
+        "value": "daughter_marriage_planned"
+      },
+      {
+        "type": "any",
+        "soft": false,
+        "of": [
+          {
+            "type": "situation",
+            "value": "widow_or_destitute_woman"
+          },
+          {
+            "type": "situation",
+            "value": "construction_worker_family"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "old-age-pension",
+    "category": "Pension & Social Security",
+    "department": "Social Security, Women & Child Development",
+    "name": {
+      "en": "Old Age Pension Scheme",
+      "pa": "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਸਕੀਮ",
+      "hi": "वृद्धावस्था पेंशन योजना"
+    },
+    "description": {
+      "en": "Monthly pension support for elderly citizens of Punjab with no stable source of income.",
+      "pa": "ਬਿਨਾਂ ਸਥਿਰ ਆਮਦਨ ਵਾਲੇ ਪੰਜਾਬ ਦੇ ਬਜ਼ੁਰਗ ਨਾਗਰਿਕਾਂ ਲਈ ਮਹੀਨਾਵਾਰ ਪੈਨਸ਼ਨ ਸਹਾਇਤਾ।",
+      "hi": "बिना स्थिर आय वाले पंजाब के वरिष्ठ नागरिकों के लिए मासिक पेंशन सहायता।"
+    },
+    "eligibility": {
+      "en": "Age 60 years or above; annual family income below the notified limit; resident of Punjab for at least 3 years.",
+      "pa": "ਉਮਰ 60 ਸਾਲ ਜਾਂ ਵੱਧ; ਸਾਲਾਨਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਸੂਚਿਤ ਸੀਮਾ ਤੋਂ ਘੱਟ; ਘੱਟੋ-ਘੱਟ 3 ਸਾਲ ਤੋਂ ਪੰਜਾਬ ਦਾ ਵਸਨੀਕ।",
+      "hi": "आयु 60 वर्ष या उससे अधिक; वार्षिक पारिवारिक आय अधिसूचित सीमा से कम; कम से कम 3 वर्ष से पंजाब का निवासी।"
+    },
+    "benefits": {
+      "en": "Monthly pension of ₹1,500 credited directly to the beneficiary's bank account.",
+      "pa": "ਲਾਭਪਾਤਰੀ ਦੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਸਿੱਧੇ ਜਮ੍ਹਾ ਹੋਣ ਵਾਲੀ 1,500 ਰੁਪਏ ਮਹੀਨਾਵਾਰ ਪੈਨਸ਼ਨ।",
+      "hi": "लाभार्थी के बैंक खाते में सीधे जमा होने वाली ₹1,500 मासिक पेंशन।"
+    },
+    "how_to_apply": {
+      "en": "Apply at the nearest Sewa Kendra with age proof, income certificate, and Aadhaar card.",
+      "pa": "ਉਮਰ ਸਬੂਤ, ਆਮਦਨ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਆਧਾਰ ਕਾਰਡ ਨਾਲ ਨਜ਼ਦੀਕੀ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਅਰਜ਼ੀ ਦਿਓ।",
+      "hi": "आयु प्रमाण, आय प्रमाण पत्र और आधार कार्ड के साथ निकटतम सेवा केंद्र पर आवेदन करें।"
+    },
+    "official_link": "https://punjab.gov.in",
+    "keywords": [
+      "pension",
+      "old age",
+      "elderly",
+      "senior",
+      "senior citizen",
+      "aged",
+      "retired",
+      "retirement",
+      "father",
+      "mother",
+      "parents",
+      "grandfather",
+      "grandmother",
+      "budhapa",
+      "bujurg",
+      "vridh",
+      "no income",
+      "ਪੈਨਸ਼ਨ",
+      "ਬਜ਼ੁਰਗ",
+      "ਬੁਢਾਪਾ",
+      "ਬੁੱਢੇ",
+      "ਮਾਪੇ",
+      "ਪਿਤਾ",
+      "ਮਾਤਾ",
+      "ਦਾਦਾ",
+      "ਦਾਦੀ",
+      "ਬਾਪੂ",
+      "ਬੇਬੇ",
+      "पेंशन",
+      "बुजुर्ग",
+      "वृद्ध",
+      "वृद्धावस्था",
+      "बुढ़ापा",
+      "माता",
+      "पिता",
+      "माँ",
+      "पिताजी",
+      "दादा",
+      "दादी"
+    ],
+    "income_check": true,
+    "criteria": [
+      {
+        "type": "min_age",
+        "value": 60
+      },
+      {
+        "type": "situation",
+        "value": "punjab_resident_3y"
+      }
+    ]
+  },
+  {
+    "id": "ghar-ghar-rozgar",
+    "category": "Employment",
+    "department": "Employment Generation, Skill Development & Training",
+    "name": {
+      "en": "Ghar Ghar Rozgar Te Karobar Mission",
+      "pa": "ਘਰ ਘਰ ਰੋਜ਼ਗਾਰ ਤੇ ਕਾਰੋਬਾਰ ਮਿਸ਼ਨ",
+      "hi": "घर घर रोज़गार ते कारोबार मिशन"
+    },
+    "description": {
+      "en": "State mission connecting unemployed youth with job opportunities, skill training, and self-employment support.",
+      "pa": "ਬੇਰੁਜ਼ਗਾਰ ਨੌਜਵਾਨਾਂ ਨੂੰ ਨੌਕਰੀ ਦੇ ਮੌਕੇ, ਹੁਨਰ ਸਿਖਲਾਈ ਅਤੇ ਸਵੈ-ਰੁਜ਼ਗਾਰ ਸਹਾਇਤਾ ਨਾਲ ਜੋੜਨ ਵਾਲਾ ਰਾਜ ਮਿਸ਼ਨ।",
+      "hi": "बेरोजगार युवाओं को नौकरी के अवसर, कौशल प्रशिक्षण और स्वरोजगार सहायता से जोड़ने वाला राज्य मिशन।"
+    },
+    "eligibility": {
+      "en": "Punjab resident, aged 18–35, registered as a job seeker on the portal.",
+      "pa": "ਪੰਜਾਬ ਦਾ ਵਸਨੀਕ, ਉਮਰ 18-35, ਪੋਰਟਲ 'ਤੇ ਨੌਕਰੀ ਭਾਲਣ ਵਾਲੇ ਵਜੋਂ ਰਜਿਸਟਰਡ।",
+      "hi": "पंजाब निवासी, आयु 18-35, पोर्टल पर नौकरी चाहने वाले के रूप में पंजीकृत।"
+    },
+    "benefits": {
+      "en": "Access to job fairs, placement drives, skill-training courses, and business loan facilitation.",
+      "pa": "ਨੌਕਰੀ ਮੇਲੇ, ਪਲੇਸਮੈਂਟ ਡਰਾਈਵਾਂ, ਹੁਨਰ ਸਿਖਲਾਈ ਕੋਰਸ ਅਤੇ ਕਾਰੋਬਾਰੀ ਲੋਨ ਸਹੂਲਤ ਤੱਕ ਪਹੁੰਚ।",
+      "hi": "जॉब फेयर, प्लेसमेंट ड्राइव, कौशल प्रशिक्षण पाठ्यक्रम और व्यवसाय ऋण सुविधा तक पहुँच।"
+    },
+    "how_to_apply": {
+      "en": "Register free at pgrkam.com with education and skill details.",
+      "pa": "pgrkam.com 'ਤੇ ਸਿੱਖਿਆ ਅਤੇ ਹੁਨਰ ਵੇਰਵਿਆਂ ਨਾਲ ਮੁਫ਼ਤ ਰਜਿਸਟਰ ਕਰੋ।",
+      "hi": "pgrkam.com पर शिक्षा और कौशल विवरण के साथ नि:शुल्क पंजीकरण करें।"
+    },
+    "official_link": "https://pgrkam.com",
+    "keywords": [
+      "job",
+      "jobs",
+      "employment",
+      "unemployed",
+      "work",
+      "career",
+      "skill",
+      "skills",
+      "training",
+      "placement",
+      "self-employment",
+      "business",
+      "loan",
+      "startup",
+      "youth",
+      "naukri",
+      "rozgar",
+      "kaam",
+      "pgrkam",
+      "ਨੌਕਰੀ",
+      "ਰੁਜ਼ਗਾਰ",
+      "ਕੰਮ",
+      "ਹੁਨਰ",
+      "ਸਿਖਲਾਈ",
+      "ਬੇਰੁਜ਼ਗਾਰ",
+      "ਨੌਜਵਾਨ",
+      "ਕਾਰੋਬਾਰ",
+      "नौकरी",
+      "रोज़गार",
+      "रोजगार",
+      "काम",
+      "कौशल",
+      "प्रशिक्षण",
+      "बेरोज़गार",
+      "बेरोजगार",
+      "युवा",
+      "व्यवसाय"
+    ],
+    "income_check": false,
+    "criteria": [
+      {
+        "type": "min_age",
+        "value": 18
+      },
+      {
+        "type": "max_age",
+        "value": 35
+      },
+      {
+        "type": "situation",
+        "value": "job_seeker"
+      }
+    ]
+  },
+  {
+    "id": "ashirwad-scholarship",
+    "category": "Education",
+    "department": "School / Higher Education",
+    "name": {
+      "en": "Punjab Post-Matric Scholarship for SC Students",
+      "pa": "ਪੰਜਾਬ ਪੋਸਟ-ਮੈਟ੍ਰਿਕ ਸਕਾਲਰਸ਼ਿਪ (ਐਸਸੀ ਵਿਦਿਆਰਥੀ)",
+      "hi": "पंजाब पोस्ट-मैट्रिक छात्रवृत्ति (एससी छात्र)"
+    },
+    "description": {
+      "en": "Covers tuition fees and provides maintenance allowance for SC students pursuing studies after Class 10.",
+      "pa": "10ਵੀਂ ਤੋਂ ਬਾਅਦ ਪੜ੍ਹਾਈ ਕਰ ਰਹੇ ਐਸਸੀ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਟਿਊਸ਼ਨ ਫੀਸ ਅਤੇ ਦੇਖਭਾਲ ਭੱਤਾ ਸ਼ਾਮਲ ਕਰਦਾ ਹੈ।",
+      "hi": "10वीं के बाद पढ़ाई कर रहे एससी छात्रों के लिए ट्यूशन फीस और भरण-पोषण भत्ता शामिल है।"
+    },
+    "eligibility": {
+      "en": "SC students of Punjab enrolled in recognized post-matric institutions; family income below prescribed limit.",
+      "pa": "ਮਾਨਤਾ ਪ੍ਰਾਪਤ ਪੋਸਟ-ਮੈਟ੍ਰਿਕ ਸੰਸਥਾਵਾਂ ਵਿੱਚ ਦਾਖਲ ਪੰਜਾਬ ਦੇ ਐਸਸੀ ਵਿਦਿਆਰਥੀ; ਪਰਿਵਾਰਕ ਆਮਦਨ ਤੈਅ ਸੀਮਾ ਤੋਂ ਘੱਟ।",
+      "hi": "मान्यता प्राप्त पोस्ट-मैट्रिक संस्थानों में नामांकित पंजाब के एससी छात्र; पारिवारिक आय निर्धारित सीमा से कम।"
+    },
+    "benefits": {
+      "en": "Full tuition fee reimbursement plus a monthly maintenance allowance.",
+      "pa": "ਪੂਰੀ ਟਿਊਸ਼ਨ ਫੀਸ ਵਾਪਸੀ ਅਤੇ ਮਹੀਨਾਵਾਰ ਦੇਖਭਾਲ ਭੱਤਾ।",
+      "hi": "पूर्ण ट्यूशन फीस प्रतिपूर्ति और मासिक भरण-पोषण भत्ता।"
+    },
+    "how_to_apply": {
+      "en": "Apply online via the National Scholarship Portal (scholarships.gov.in) each academic year.",
+      "pa": "ਹਰ ਸਾਲ ਨੈਸ਼ਨਲ ਸਕਾਲਰਸ਼ਿਪ ਪੋਰਟਲ (scholarships.gov.in) ਰਾਹੀਂ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦਿਓ।",
+      "hi": "हर साल नेशनल स्कॉलरशिप पोर्टल (scholarships.gov.in) के माध्यम से ऑनलाइन आवेदन करें।"
+    },
+    "official_link": "https://scholarships.gov.in",
+    "keywords": [
+      "scholarship",
+      "scholarships",
+      "study",
+      "studies",
+      "student",
+      "students",
+      "college",
+      "university",
+      "school",
+      "fees",
+      "tuition",
+      "education",
+      "post matric",
+      "matric",
+      "sc",
+      "dalit",
+      "degree",
+      "vazifa",
+      "ਵਜ਼ੀਫ਼ਾ",
+      "ਵਜ਼ੀਫਾ",
+      "ਸਕਾਲਰਸ਼ਿਪ",
+      "ਪੜ੍ਹਾਈ",
+      "ਵਿਦਿਆਰਥੀ",
+      "ਕਾਲਜ",
+      "ਫੀਸ",
+      "ਸਿੱਖਿਆ",
+      "छात्रवृत्ति",
+      "स्कॉलरशिप",
+      "पढ़ाई",
+      "विद्यार्थी",
+      "छात्र",
+      "कॉलेज",
+      "फीस",
+      "शिक्षा"
+    ],
+    "income_check": true,
+    "criteria": [
+      {
+        "type": "category",
+        "value": [
+          "sc"
+        ]
+      },
+      {
+        "type": "situation",
+        "value": "student_post_matric"
+      }
+    ]
+  },
+  {
+    "id": "smart-ration-card",
+    "category": "Food Security",
+    "department": "Food, Civil Supplies & Consumer Affairs",
+    "name": {
+      "en": "Smart Ration Card Scheme",
+      "pa": "ਸਮਾਰਟ ਰਾਸ਼ਨ ਕਾਰਡ ਸਕੀਮ",
+      "hi": "स्मार्ट राशन कार्ड योजना"
+    },
+    "description": {
+      "en": "Digitized ration card giving eligible households subsidized food grains through fair price shops.",
+      "pa": "ਡਿਜੀਟਾਈਜ਼ਡ ਰਾਸ਼ਨ ਕਾਰਡ ਜੋ ਯੋਗ ਪਰਿਵਾਰਾਂ ਨੂੰ ਵਾਜਬ ਭਾਅ ਦੁਕਾਨਾਂ ਰਾਹੀਂ ਸਬਸਿਡੀ ਵਾਲਾ ਅਨਾਜ ਦਿੰਦਾ ਹੈ।",
+      "hi": "डिजिटीकृत राशन कार्ड जो योग्य परिवारों को उचित मूल्य दुकानों के माध्यम से सब्सिडी वाला अनाज देता है।"
+    },
+    "eligibility": {
+      "en": "Households falling under NFSA priority or AAY categories as per state income criteria.",
+      "pa": "ਰਾਜ ਦੇ ਆਮਦਨ ਮਾਪਦੰਡ ਅਨੁਸਾਰ NFSA ਪ੍ਰਾਥਮਿਕਤਾ ਜਾਂ AAY ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਆਉਣ ਵਾਲੇ ਪਰਿਵਾਰ।",
+      "hi": "राज्य आय मानदंड के अनुसार NFSA प्राथमिकता या AAY श्रेणी में आने वाले परिवार।"
+    },
+    "benefits": {
+      "en": "Monthly subsidized wheat/rice quota per family member through fair price shops.",
+      "pa": "ਵਾਜਬ ਭਾਅ ਦੁਕਾਨਾਂ ਰਾਹੀਂ ਪ੍ਰਤੀ ਪਰਿਵਾਰਕ ਮੈਂਬਰ ਮਹੀਨਾਵਾਰ ਸਬਸਿਡੀ ਵਾਲਾ ਕਣਕ/ਚੌਲ ਕੋਟਾ।",
+      "hi": "उचित मूल्य दुकानों के माध्यम से प्रति परिवार सदस्य मासिक सब्सिडी वाला गेहूं/चावल कोटा।"
+    },
+    "how_to_apply": {
+      "en": "Apply at your nearest Sewa Kendra with family ID, Aadhaar, and income proof.",
+      "pa": "ਪਰਿਵਾਰ ਆਈਡੀ, ਆਧਾਰ ਅਤੇ ਆਮਦਨ ਸਬੂਤ ਨਾਲ ਨਜ਼ਦੀਕੀ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਅਰਜ਼ੀ ਦਿਓ।",
+      "hi": "परिवार आईडी, आधार और आय प्रमाण के साथ निकटतम सेवा केंद्र पर आवेदन करें।"
+    },
+    "official_link": "https://punjab.gov.in",
+    "keywords": [
+      "ration",
+      "ration card",
+      "food",
+      "grain",
+      "grains",
+      "wheat",
+      "rice",
+      "atta",
+      "dal",
+      "fair price shop",
+      "subsidised",
+      "subsidized",
+      "nfsa",
+      "aay",
+      "antyodaya",
+      "bpl",
+      "hungry",
+      "ਰਾਸ਼ਨ",
+      "ਕਾਰਡ",
+      "ਕਣਕ",
+      "ਚੌਲ",
+      "ਅਨਾਜ",
+      "ਖੁਰਾਕ",
+      "ਸਸਤਾ",
+      "राशन",
+      "कार्ड",
+      "गेहूं",
+      "गेहूँ",
+      "चावल",
+      "अनाज",
+      "खाद्य",
+      "सस्ता"
+    ],
+    "income_check": true,
+    "criteria": [
+      {
+        "type": "any",
+        "soft": true,
+        "of": [
+          {
+            "type": "situation",
+            "value": "bpl_or_nfsa_household"
+          }
+        ]
+      }
+    ]
+  }
+]

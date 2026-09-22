@@ -1,0 +1,86 @@
+[
+  {
+    "id": "marriage",
+    "name": {
+      "en": "Women & Marriage Welfare",
+      "pa": "ਔਰਤਾਂ ਅਤੇ ਵਿਆਹ ਭਲਾਈ",
+      "hi": "महिला एवं विवाह कल्याण"
+    },
+    "blurb": {
+      "en": "Help with a daughter's wedding costs",
+      "pa": "ਧੀ ਦੇ ਵਿਆਹ ਦੇ ਖਰਚੇ ਲਈ ਮਦਦ",
+      "hi": "बेटी की शादी के खर्च में मदद"
+    },
+    "icon": "rings"
+  },
+  {
+    "id": "family",
+    "name": {
+      "en": "Women & Child Welfare",
+      "pa": "ਔਰਤਾਂ ਅਤੇ ਬਾਲ ਭਲਾਈ",
+      "hi": "महिला एवं बाल कल्याण"
+    },
+    "blurb": {
+      "en": "Support for widows, destitute women and their children",
+      "pa": "ਵਿਧਵਾਵਾਂ, ਬੇਸਹਾਰਾ ਔਰਤਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਬੱਚਿਆਂ ਲਈ ਸਹਾਇਤਾ",
+      "hi": "विधवाओं, निराश्रित महिलाओं और उनके बच्चों के लिए सहायता"
+    },
+    "icon": "family"
+  },
+  {
+    "id": "pension",
+    "name": {
+      "en": "Pension & Social Security",
+      "pa": "ਪੈਨਸ਼ਨ ਅਤੇ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ",
+      "hi": "पेंशन एवं सामाजिक सुरक्षा"
+    },
+    "blurb": {
+      "en": "Monthly income support for elders",
+      "pa": "ਬਜ਼ੁਰਗਾਂ ਲਈ ਮਹੀਨਾਵਾਰ ਆਮਦਨ ਸਹਾਇਤਾ",
+      "hi": "बुजुर्गों के लिए मासिक आय सहायता"
+    },
+    "icon": "elder"
+  },
+  {
+    "id": "employment",
+    "name": {
+      "en": "Employment",
+      "pa": "ਰੁਜ਼ਗਾਰ",
+      "hi": "रोज़गार"
+    },
+    "blurb": {
+      "en": "Jobs, skill training and self-employment",
+      "pa": "ਨੌਕਰੀਆਂ, ਹੁਨਰ ਸਿਖਲਾਈ ਅਤੇ ਸਵੈ-ਰੁਜ਼ਗਾਰ",
+      "hi": "नौकरियाँ, कौशल प्रशिक्षण और स्वरोज़गार"
+    },
+    "icon": "briefcase"
+  },
+  {
+    "id": "education",
+    "name": {
+      "en": "Education",
+      "pa": "ਸਿੱਖਿਆ",
+      "hi": "शिक्षा"
+    },
+    "blurb": {
+      "en": "Scholarships and fee support for students",
+      "pa": "ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵਜ਼ੀਫ਼ੇ ਅਤੇ ਫੀਸ ਸਹਾਇਤਾ",
+      "hi": "विद्यार्थियों के लिए छात्रवृत्ति और फीस सहायता"
+    },
+    "icon": "cap"
+  },
+  {
+    "id": "food",
+    "name": {
+      "en": "Food Security",
+      "pa": "ਖੁਰਾਕ ਸੁਰੱਖਿਆ",
+      "hi": "खाद्य सुरक्षा"
+    },
+    "blurb": {
+      "en": "Subsidised grain through ration cards",
+      "pa": "ਰਾਸ਼ਨ ਕਾਰਡ ਰਾਹੀਂ ਸਸਤਾ ਅਨਾਜ",
+      "hi": "राशन कार्ड से सस्ता अनाज"
+    },
+    "icon": "wheat"
+  }
+]

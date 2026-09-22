@@ -1,0 +1,45 @@
+/* Design tokens: "Sarson & Phulkari".
+   Field green (wheat and paddy), sarson mustard for actions, rani pink from phulkari
+   embroidery, on a slightly green-tinted paper. */
+:root {
+  --green-900: #12331f;
+  --green-800: #17452b;
+  --green-700: #1f5a3a;
+  --green-600: #2a7048;
+  --green-100: #e0ecdb;
+  --green-50: #eef4ea;
+
+  --sarson: #f5b800;
+  --sarson-600: #d99e00;
+  --sarson-100: #fdf1c4;
+
+  --rani: #b3245c;
+  --rani-100: #f8e3ec;
+
+  --paper: #f6f7f1;
+  --surface: #ffffff;
+  --ink: #1b2a21;
+  --muted: #55645a;
+  --line: #d9e0d0;
+  --line-strong: #b4c0a8;
+
+  /* woven pattern colours */
+  --pk-ground: var(--green-700);
+  --pk-line: var(--sarson);
+  --pk-accent: var(--rani);
+  --pk-light: var(--paper);
+
+  --font-display: 'Baloo 2', 'Baloo Paaji 2', 'Noto Sans Devanagari', 'Noto Sans Gurmukhi', system-ui, sans-serif;
+  --font-body: 'Noto Sans', 'Noto Sans Gurmukhi', 'Noto Sans Devanagari', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 18px;
+  --r-xl: 28px;
+
+  --shadow-1: 0 1px 2px rgba(18, 51, 31, 0.06), 0 6px 18px rgba(18, 51, 31, 0.07);
+  --shadow-2: 0 2px 4px rgba(18, 51, 31, 0.08), 0 18px 44px rgba(18, 51, 31, 0.18);
+
+  --header-h: 68px;
+  --wrap: 1160px;
+}
